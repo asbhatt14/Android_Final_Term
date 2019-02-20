@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarOnSale</string>
+    <string name="continueText"><u>Continue to Login/SignUp</u></string>
+    <string name="loginText">Login</string>
+    <string name="hint_email">Enter Email Address</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="forgotPassword"><u>Forgot Password?</u></string>
+    <string name="createAccountText"><u>Don't you have an Account? Create one</u></string>
+    <string name="submit">Submit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
